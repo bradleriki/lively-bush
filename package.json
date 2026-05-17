@@ -1,0 +1,14 @@
+{
+  "name": "apex-fit-pro",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0",
+    "lucide-react": "^0.383.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
